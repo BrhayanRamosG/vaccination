@@ -1,6 +1,6 @@
 # Vaccines
 
-Maquetación sitio web Vaccines
+Maquetación sitio web Vaccination
 
 ## Recommended IDE Setup
 
