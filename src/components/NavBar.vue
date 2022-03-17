@@ -126,6 +126,7 @@ export default {
   },
   setup() {
     const navigation = ref([
+      { name: "Home", href: "/", current: false },
       { name: "Database", href: "/database", current: false },
       { name: "Education", href: "/education", current: false },
       { name: "News", href: "/news", current: false },
