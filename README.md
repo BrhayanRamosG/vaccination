@@ -1,6 +1,9 @@
 # Vaccination
 
-Maquetación sitio web Vaccination
+## Maquetación sitio web
+
+Clon de la página Vaccination by
+[Adhiari Subekti](https://dribbble.com/Adhiari_is).
 
 ## Recommended IDE Setup
 
