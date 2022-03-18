@@ -31,6 +31,10 @@ npm run dev
 npm run build
 ```
 
+## Mercadotecnia
+
+![Marketing vacunación](/src/assets/images/mercadotecnia-covid-19.png)
+
 ### Demo
 
 ![Captura página principal](/src/assets/images/captura-home.png)
